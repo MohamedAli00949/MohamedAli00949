@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋, I am Mohamed Ali</h1>
+<h3 align="center"> Software developer | Senior Computer Science Student </h3>
 
-<!--
-**MohamedAli00949/MohamedAli00949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **MERN stack projects**
+- 🌱 I’m currently learning **Unit testing**
+- 👯 I’m looking to collaborate on **Open source**
+- 💻 I mainly code in **Javascript/Typescript**
+- 😄 Pronouns: **he/him**
+- 📫 How to reach me: mohamedali00949@gmail.com
 
-Here are some ideas to get you started:
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MohamedAli00949&show_icons=true&locale=en&theme=radical" alt="MohamedAli00949" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAli00949&theme=radical" alt="MohamedAli00949" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAli00949&show_icons=true&locale=en&layout=compact&theme=radical" alt="MohamedAli00949" />
+
+### Connect with Me:
+<a href="https://www.linkedin.com/in/mohamed-ali-fawzi-hassan-596318203/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ali linkedin" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/Mohamed13149357" target="blank">
+  <img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="Mohamed Ali Twitter" height="30" width="40" />
+</a>
