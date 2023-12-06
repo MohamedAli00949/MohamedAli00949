@@ -13,6 +13,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAli00949&show_icons=true&locale=en&layout=compact&theme=radical" alt="MohamedAli00949" />
 
+[![An image of @mohamedali00949's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohamedali00949)](https://holopin.io/@mohamedali00949)
+
 ### Connect with Me:
 <a href="https://www.linkedin.com/in/mohamed-ali-fawzi-hassan-596318203/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ali linkedin" height="30" width="40" />
