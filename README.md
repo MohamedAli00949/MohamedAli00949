@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I am Mohamed Ali</h1>
-<h3 align="center"> Software developer | Senior Computer Science Student </h3>
+<h3 align="center"> Software Engineer </h3>
 
-- 🔭 I’m currently working on **MERN stack projects**
+- 🔭 I’m currently working on **Fullstack Node.js projects**
 - 🌱 I’m currently learning **Unit testing**
 - 👯 I’m looking to collaborate on **Open source**
 - 💻 I mainly code in **Javascript/Typescript**
