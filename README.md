@@ -2,7 +2,7 @@
 <h3 align="center"> Software Engineer </h3>
 
 - 🔭 I’m currently working on **Fullstack Node.js projects**
-- 🌱 I’m currently learning **Unit testing**
+- 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **Open source**
 - 💻 I mainly code in **Javascript/Typescript**
 - 😄 Pronouns: **he/him**
